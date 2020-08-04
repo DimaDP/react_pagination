@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Posts.css","Pagination.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,iBACE,WACF,CCFA,YACE,sBACF","file":"main.ecde285a.chunk.css","sourcesContent":["body {\n  padding: 20px 60px;\n}\n",".list-group-item {\n  height: 80px;\n}\n",".pagination {\n  justify-content: center;\n}\n"]}
